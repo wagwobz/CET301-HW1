@@ -1,4 +1,4 @@
-# myfirstapp
+# CET 301 HW-1
 
 A new Flutter application.
 
